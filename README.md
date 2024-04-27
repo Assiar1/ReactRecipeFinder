@@ -1,4 +1,5 @@
 # Project  Overview : Recipe Finder App
+![RecipeFinder](https://github.com/Assiar1/ReactRecipeFinder/assets/115417838/eaa5adaf-8955-42da-9d63-3988807c4d01)
 
 Purpose: Building a Recipe finder website to help users discover, organize, and try
  out new recipes. 
